@@ -1,0 +1,17 @@
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\bin\Debug\pantallasPaola.exe.config
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\bin\Debug\pantallasPaola.exe
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\bin\Debug\pantallasPaola.pdb
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\bin\Debug\pantallasPaola.xml
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.vbprojAssemblyReference.cache
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.Resources.resources
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.vbproj.GenerateResource.cache
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.vbproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.exe
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.xml
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.pdb
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.Profile.resources
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.Certificates.resources
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.Homepage.resources
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.LoginAdmin.resources
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.LoginBoxAdmin.resources
+C:\Users\paola\source\repos\pantallasPaola\pantallasPaola\obj\Debug\pantallasPaola.LoginBoxEmployee.resources
